@@ -1,11 +1,6 @@
 ## Hi there 👋
-<div align="center">
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suman%20Paul%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform&descAlignY=55&descSize=16"/>
-  
-  <br/><br/>
-  
-  <img src="1777987219575.jpg" width="400"/>
+ <div align="center">
+  <img src="1777987219575.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover;"/>
 </div>
   
 </div>
