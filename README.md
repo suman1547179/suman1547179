@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="C:\Users\sumanpaul\Downloads\1777987219575.jpg"/>
+  <img src="https://i.ytimg.com/vi/zrpgcPQfY_I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogZChlMA8=&rs=AOn4CLCgtTzvncs9WWKWuG-P_I4eOTr18w"/>
 </div>
 
 <p align="center">
