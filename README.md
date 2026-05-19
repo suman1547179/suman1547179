@@ -4,12 +4,13 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=120&section=header&text=Suman%20Paul%20K&fontSize=42&fontColor=ffffff&fontAlignY=70&animation=fadeIn&desc=DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=88&descColor=90e0ef"/>
+<h1>Suman Paul K</h1>
+<h3>☁️ DevOps & Cloud Engineer &nbsp;|&nbsp; Hyderabad, India 🇮🇳</h3>
 
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=680&lines=☁️+Building+Scalable+Cloud+Infrastructure;🔧+Automating+Everything+with+DevOps;🐳+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;🌐+AWS+%26+Azure+%7C+Always+Learning;🚀+Open+to+Work+—+Let's+Build+Something+Great" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=680&lines=☁️+Building+Scalable+Cloud+Infrastructure;🔧+Automating+Everything+with+DevOps;🐳+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;🌐+AWS+%26+Azure+%7C+Always+Learning;🚀+Open+to+Work+—+Let's+Build+Something+Great" alt="Typing SVG"/>
 </p>
 
 <p>
@@ -165,6 +166,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=100&section=footer"/>
+![footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 </div>
